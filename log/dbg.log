@@ -1,0 +1,513 @@
+﻿
+ 8:51:31 (slbsls) OUT: "tlBase" m.sedkaoui@PEDWS7  
+ 8:51:31 (slbsls) OUT: "tlAcoustics" m.sedkaoui@PEDWS7  
+ 8:51:31 (slbsls) OUT: "tlWellIntegrity" m.sedkaoui@PEDWS7  
+ 8:51:32 (slbsls) OUT: "tlFC" m.sedkaoui@PEDWS7  
+ 8:51:32 (slbsls) UNSUPPORTED: "DD" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327))
+ 8:51:32 (slbsls) OUT: "tlFPress" m.sedkaoui@PEDWS7  
+ 8:51:32 (slbsls) OUT: "tlQuanti" m.sedkaoui@PEDWS7  
+ 8:51:33 (slbsls) OUT: "tlQuantiMin" m.sedkaoui@PEDWS7  
+ 8:51:33 (slbsls) OUT: "tlSHM" m.sedkaoui@PEDWS7  
+ 8:51:34 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" zahar@ALGM0000252  (All licenses are reserved for others. (-101,396))
+ 8:51:54 (slbsls) UNSUPPORTED: "Slb_Internal_bohupn" (PORT_AT_HOST_PLUS   ) barkat@PEDWS-Z116  (License server system does not support this feature. (-18,327))
+ 8:51:54 (slbsls) UNSUPPORTED: "qzw" (PORT_AT_HOST_PLUS   ) barkat@PEDWS-Z116  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:51:54 (slbsls) DENIED: "Petrel_261395383_MAACKAhBHsZQA" barkat@PEDWS-Z116  (All licenses are reserved for others. (-101,396))
+ 8:52:10 (slbsls) UNSUPPORTED: "TF0EKL" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:52:10 (slbsls) DENIED: "Petrel_261395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+ 8:52:15 (slbsls) UNSUPPORTED: "Slb_Internal_yxrprm" (PORT_AT_HOST_PLUS   ) barkat@PEDWS-Z116  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:52:16 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" barkat@PEDWS-Z116  (All licenses are reserved for others. (-101,396))
+ 8:52:16 (slbsls) UNSUPPORTED: "aD" (PORT_AT_HOST_PLUS   ) barkat@PEDWS-Z116  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:52:16 (slbsls) UNSUPPORTED: "Slb_Internal_ospkbm" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:52:18 (slbsls) UNSUPPORTED: "Zge" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:52:21 (slbsls) DENIED: "Petrel_261395383_MAACKAhBHsZQA" zahar@ALGM0000252  (All licenses are reserved for others. (-101,396))
+ 8:52:24 (slbsls) OUT: "Petrel_421395383_MAAAAAAAAAAIA" barkat@PEDWS-Z116  
+ 8:52:24 (slbsls) UNSUPPORTED: "bWqOMG" (PORT_AT_HOST_PLUS   ) barkat@PEDWS-Z116  (License server system does not support this feature. (-18,327))
+ 8:52:27 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" zahar@ALGM0000252  (All licenses are reserved for others. (-101,396))
+ 8:52:30 (slbsls) UNSUPPORTED: "jc1C1" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:52:30 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:52:32 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:52:35 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:52:35 (slbsls) UNSUPPORTED: "_F.Q" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:52:36 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 8:52:37 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 8:52:37 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" zahar@ALGM0000252  (All licenses are reserved for others. (-101,396))
+ 8:52:42 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" zahar@ALGM0000252  (All licenses are reserved for others. (-101,396))
+ 8:52:53 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 8:52:53 (slbsls) UNSUPPORTED: "ZF@mq6_1" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:52:53 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 8:52:57 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" zahar@ALGM0000252  (All licenses are reserved for others. (-101,396))
+ 8:53:00 (slbsls) UNSUPPORTED: "umH8jPeFRl@" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:53:06 (slbsls) UNSUPPORTED: "8VM" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:53:08 (slbsls) DENIED: "Petrel_261395383_MAACKAhBHsZQA" zahar@ALGM0000252  (All licenses are reserved for others. (-101,396))
+ 8:53:32 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:53:35 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:53:37 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:53:39 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:54:17 (slbsls) DENIED: "Petrel_261395383_MAACKAhBHsZQA" zahar@ALGM0000252  (All licenses are reserved for others. (-101,396))
+ 8:54:19 (slbsls) UNSUPPORTED: "hP5x8V" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:54:30 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:54:32 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:54:35 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:54:37 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:54:39 (slbsls) UNSUPPORTED: "6Bi72N" (PORT_AT_HOST_PLUS   ) zahar@ALGM0000252  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:54:41 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" zahar@ALGM0000252  (All licenses are reserved for others. (-101,396))
+ 8:55:12 (slbsls) UNSUPPORTED: "Slb_Internal_hsomvu" (PORT_AT_HOST_PLUS   ) ghernouti@PEDWS-Z11  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:55:12 (slbsls) OUT: "OFM32" ghernouti@PEDWS-Z11  
+ 8:55:30 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:55:33 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:55:35 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:55:37 (slbsls) DENIED: "Petrel_311395383_MAAAAAAAAAQEA" sona0659@ALGM0000149  (Licensed number of users already reached. (-4,342))
+ 8:57:16 (slbsls) UNSUPPORTED: "Slb_Internal_tqflry" (PORT_AT_HOST_PLUS   ) k.zemouri@PEDWS-D46  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:57:17 (slbsls) UNSUPPORTED: "QVMzRwX_d_bmW" (PORT_AT_HOST_PLUS   ) k.zemouri@PEDWS-D46  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:57:17 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" k.zemouri@PEDWS-D46  (All licenses are reserved for others. (-101,396))
+ 8:58:24 (slbsls) UNSUPPORTED: "Slb_Internal_cehkfc" (PORT_AT_HOST_PLUS   ) ghernouti@PEDWS-Z11  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:58:24 (slbsls) OUT: "OFM32" ghernouti@PEDWS-Z11  
+ 8:59:05 (slbsls) UNSUPPORTED: "Slb_Internal_gpywvs" (PORT_AT_HOST_PLUS   ) arokaiba@PEDWS113  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:59:05 (slbsls) UNSUPPORTED: "3QvFaEil9HF" (PORT_AT_HOST_PLUS   ) arokaiba@PEDWS113  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:59:06 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" arokaiba@PEDWS113  (All licenses are reserved for others. (-101,396))
+ 8:59:09 (slbsls) UNSUPPORTED: "hbwJgmetStw" (PORT_AT_HOST_PLUS   ) arokaiba@PEDWS113  (License server system does not support this feature. (-18,327:10054 ""))
+ 8:59:09 (slbsls) DENIED: "Petrel_261395383_MAACKAhBHsZQA" arokaiba@PEDWS113  (All licenses are reserved for others. (-101,396))
+ 9:01:43 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:01:43 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:01:44 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:01:52 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:01:53 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:02:28 (slbsls) UNSUPPORTED: "Slb_Internal_qdytlz" (PORT_AT_HOST_PLUS   ) guesmia@PEDWS-D74  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:02:28 (slbsls) DENIED: "OFM32" guesmia@PEDWS-D74  (Licensed number of users already reached. (-4,342))
+ 9:03:09 (slbsls) UNSUPPORTED: "Slb_Internal_xqjtlq" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:03:09 (slbsls) DENIED: "Petrel_261395383_MAACKAhBHsZQA" ANNOU@PEDWS-D75  (All licenses are reserved for others. (-101,396))
+ 9:03:10 (slbsls) UNSUPPORTED: "dI7tEECsi3GG" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:05:30 (slbsls) UNSUPPORTED: "Slb_Internal_mnksxi" (PORT_AT_HOST_PLUS   ) lerari@PEDWS-D76  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:05:30 (slbsls) UNSUPPORTED: "@byLiv" (PORT_AT_HOST_PLUS   ) lerari@PEDWS-D76  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:05:30 (slbsls) OUT: "Petrel_261395383_MAACKAhBHsZQA" lerari@PEDWS-D76  
+ 9:07:30 (slbsls) UNSUPPORTED: "Slb_Internal_rqeprl" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:07:30 (slbsls) UNSUPPORTED: "I7" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:07:31 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" ANNOU@PEDWS-D75  (All licenses are reserved for others. (-101,396))
+ 9:08:10 (slbsls) UNSUPPORTED: "Slb_Internal_sqbwga" (PORT_AT_HOST_PLUS   ) zerdane@PEDPC97  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:08:10 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" zerdane@PEDPC97  (All licenses are reserved for others. (-101,396))
+ 9:08:22 (slbsls) UNSUPPORTED: "Slb_Internal_cvdaea" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:08:22 (slbsls) UNSUPPORTED: "ldgrHaV5.3" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:08:22 (slbsls) UNSUPPORTED: "Petrel_13477513_MAAAIAhBDMZQA" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:08:38 (slbsls) UNSUPPORTED: "Slb_Internal_fbmbmw" (PORT_AT_HOST_PLUS   ) zerdane@PEDPC97  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:08:38 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" zerdane@PEDPC97  (All licenses are reserved for others. (-101,396))
+ 9:09:08 (slbsls) UNSUPPORTED: "Slb_Internal_wphdkl" (PORT_AT_HOST_PLUS   ) zerdane@PEDPC97  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:09:08 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" zerdane@PEDPC97  (All licenses are reserved for others. (-101,396))
+ 9:09:33 (slbsls) UNSUPPORTED: "Slb_Internal_dovpng" (PORT_AT_HOST_PLUS   ) zerdane@PEDPC97  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:09:33 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" zerdane@PEDPC97  (All licenses are reserved for others. (-101,396))
+ 9:09:43 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:09:43 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:10:19 (slbsls) UNSUPPORTED: "Slb_Internal_xjzzua" (PORT_AT_HOST_PLUS   ) zerdane@PEDPC97  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:10:19 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" zerdane@PEDPC97  (All licenses are reserved for others. (-101,396))
+ 9:11:20 (slbsls) UNSUPPORTED: "Slb_Internal_opykng" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:11:20 (slbsls) UNSUPPORTED: "EKw_" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:11:21 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" ikhedalene@PEDWS-Z120  (All licenses are reserved for others. (-101,396))
+ 9:11:56 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:11:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:11:58 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:11:58 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:11:58 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:12:00 (slbsls) UNSUPPORTED: "Slb_Internal_sspduw" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:12:00 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+ 9:12:01 (slbsls) UNSUPPORTED: "RC5E92Oj." (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:12:54 (slbsls) UNSUPPORTED: "Slb_Internal_audjxl" (PORT_AT_HOST_PLUS   ) maaziz@PEDWS-Z121  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:12:54 (slbsls) UNSUPPORTED: "CKacAVh" (PORT_AT_HOST_PLUS   ) maaziz@PEDWS-Z121  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:12:54 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" maaziz@PEDWS-Z121  (All licenses are reserved for others. (-101,396))
+ 9:12:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:12:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:12:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:12:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:12:58 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:12:58 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:13:01 (slbsls) UNSUPPORTED: "cn44s-fyUQ4" (PORT_AT_HOST_PLUS   ) maaziz@PEDWS-Z121  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:13:01 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" maaziz@PEDWS-Z121  (All licenses are reserved for others. (-101,396))
+ 9:13:59 (slbsls) OUT: "MultiFlash_Basic" gaili@PEDWS-Z141  
+ 9:13:59 (slbsls) IN: "MultiFlash_Basic" gaili@PEDWS-Z141  
+ 9:14:02 (slbsls) OUT: "MultiFlash_Basic" gaili@PEDWS-Z141  
+ 9:14:02 (slbsls) IN: "MultiFlash_Basic" gaili@PEDWS-Z141  
+ 9:14:02 (slbsls) DENIED: "MultiFlash_Hydrate" gaili@PEDWS-Z141  (License server system does not support this version of this feature. (-25,334))
+ 9:14:02 (slbsls) OUT: "MultiFlash_Hydrate" gaili@PEDWS-Z141  
+ 9:14:02 (slbsls) IN: "MultiFlash_Hydrate" gaili@PEDWS-Z141  
+ 9:14:02 (slbsls) DENIED: "MultiFlash_Asphaltene" gaili@PEDWS-Z141  (License server system does not support this version of this feature. (-25,334))
+ 9:14:02 (slbsls) OUT: "MultiFlash_Asphaltene" gaili@PEDWS-Z141  
+ 9:14:02 (slbsls) IN: "MultiFlash_Asphaltene" gaili@PEDWS-Z141  
+ 9:14:02 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) gaili@PEDWS-Z141  (License server system does not support this feature. (-18,327))
+ 9:14:02 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) gaili@PEDWS-Z141  (License server system does not support this feature. (-18,327))
+ 9:15:26 (slbsls) UNSUPPORTED: "Slb_Internal_itelwf" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:15:26 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" ikhedalene@PEDWS-Z120  (All licenses are reserved for others. (-101,396))
+ 9:15:26 (slbsls) UNSUPPORTED: "UpErRFMR2I" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:16:53 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" ikhedalene@PEDWS-Z120  (All licenses are reserved for others. (-101,396))
+ 9:16:53 (slbsls) UNSUPPORTED: "IVQ@ldXtFsi" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327))
+ 9:17:55 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:55 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:59 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049))
+ 9:17:59 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049))
+ 9:17:59 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:59 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:17:59 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:18:00 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:18:02 (slbsls) IN: "OFM32" medjioui@PEDWS-D14  
+ 9:18:02 (slbsls) UNSUPPORTED: "Slb_Internal_bxdmyu" (PORT_AT_HOST_PLUS   ) ouici_a@PEDWS-D17  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:18:02 (slbsls) DENIED: "pvt" ouici_a@PEDWS-D17  (License server system does not support this version of this feature. (-25,334))
+ 9:18:02 (slbsls) OUT: "pvt" ouici_a@PEDWS-D17  
+ 9:18:07 (slbsls) UNSUPPORTED: "Slb_Internal_oevpex" (PORT_AT_HOST_PLUS   ) medjioui@PEDWS-D14  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:18:07 (slbsls) OUT: "OFM32" medjioui@PEDWS-D14  
+ 9:18:15 (slbsls) UNSUPPORTED: "Slb_Internal_swbbzv" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:18:15 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" ikhedalene@PEDWS-Z120  (All licenses are reserved for others. (-101,396))
+ 9:18:15 (slbsls) UNSUPPORTED: "Aw52B135cfrPk" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:18:19 (slbsls) UNSUPPORTED: "w5" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:18:19 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" ikhedalene@PEDWS-Z120  (All licenses are reserved for others. (-101,396))
+ 9:18:21 (slbsls) UNSUPPORTED: "AniVOa_XpS" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:18:21 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" ikhedalene@PEDWS-Z120  (All licenses are reserved for others. (-101,396))
+ 9:18:22 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" ikhedalene@PEDWS-Z120  (All licenses are reserved for others. (-101,396))
+ 9:18:22 (slbsls) UNSUPPORTED: "0@EeS" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:18:34 (slbsls) UNSUPPORTED: "@EeSm7" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:18:34 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" ikhedalene@PEDWS-Z120  (All licenses are reserved for others. (-101,396))
+ 9:18:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:18:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:18:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:18:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:18:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:18:58 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:21:23 (slbsls) UNSUPPORTED: "Slb_Internal_iabwvb" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327))
+ 9:21:23 (slbsls) DENIED: "PIPESIM-NET" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:21:23 (slbsls) OUT: "PIPESIM-NET" iharizi@PEDWS-Z111  
+ 9:21:24 (slbsls) IN: "PIPESIM-NET" iharizi@PEDWS-Z111  
+ 9:21:24 (slbsls) OUT: "PIPESIM" iharizi@PEDWS-Z111  
+ 9:21:24 (slbsls) IN: "PIPESIM" iharizi@PEDWS-Z111  
+ 9:21:24 (slbsls) DENIED: "PIPESIM-NET" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:21:24 (slbsls) OUT: "PIPESIM-NET" iharizi@PEDWS-Z111  
+ 9:21:24 (slbsls) IN: "PIPESIM-NET" iharizi@PEDWS-Z111  
+ 9:21:24 (slbsls) UNSUPPORTED: "PVTToolbox_Base" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:21:24 (slbsls) UNSUPPORTED: "PVTToolbox_Advanced_Gas" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:21:24 (slbsls) DENIED: "MultiFlash_Basic" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:21:25 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) DENIED: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:21:25 (slbsls) OUT: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) IN: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) DENIED: "MultiFlash_Basic" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:21:25 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) DENIED: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:21:25 (slbsls) OUT: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) IN: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) DENIED: "MultiFlash_Basic" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:21:25 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:21:25 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:21:25 (slbsls) OUT: "Multiflash_CSMA" iharizi@PEDWS-Z111  
+ 9:21:26 (slbsls) IN: "Multiflash_CSMA" iharizi@PEDWS-Z111  
+ 9:21:26 (slbsls) DENIED: "MultiFlash_Basic" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:21:26 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:21:26 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:21:26 (slbsls) UNSUPPORTED: "OLGA-S" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:21:26 (slbsls) UNSUPPORTED: "OLGAS-3PHASE" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:21:26 (slbsls) UNSUPPORTED: "ledaflowpm_2phase" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:21:26 (slbsls) UNSUPPORTED: "ledaflowpm_3phase" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:21:36 (slbsls) OUT: "PIPESIM" iharizi@PEDWS-Z111  
+ 9:21:40 (slbsls) UNSUPPORTED: "Slb_Internal_lzsolx" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:21:40 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" ikhedalene@PEDWS-Z120  (All licenses are reserved for others. (-101,396))
+ 9:21:41 (slbsls) UNSUPPORTED: "aD" (PORT_AT_HOST_PLUS   ) ikhedalene@PEDWS-Z120  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:22:02 (slbsls) IN: "PIPESIM" iharizi@PEDWS-Z111  
+ 9:22:02 (slbsls) UNSUPPORTED: "Slb_Internal_fqwxap" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:22:02 (slbsls) DENIED: "MultiFlash_Basic" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:22:02 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:22:03 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:22:03 (slbsls) OUT: "PIPESIM" iharizi@PEDWS-Z111  
+ 9:22:05 (slbsls) DENIED: "MultiFlash_Basic" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:22:05 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:22:08 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:22:08 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:22:12 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:22:12 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:22:12 (slbsls) DENIED: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:22:12 (slbsls) OUT: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+ 9:22:12 (slbsls) IN: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+ 9:22:12 (slbsls) DENIED: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:22:12 (slbsls) OUT: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+ 9:22:12 (slbsls) IN: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+ 9:22:12 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327))
+ 9:22:43 (slbsls) UNSUPPORTED: "Slb_Internal_gqlmxm" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:22:43 (slbsls) UNSUPPORTED: "tIp0cahXdfAW" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:22:43 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" ANNOU@PEDWS-D75  (All licenses are reserved for others. (-101,396))
+ 9:23:55 (slbsls) DENIED: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:23:55 (slbsls) OUT: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+ 9:23:55 (slbsls) IN: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+ 9:23:55 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:23:55 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:23:55 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:23:55 (slbsls) DENIED: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:23:55 (slbsls) OUT: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+ 9:23:55 (slbsls) IN: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+ 9:24:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:24:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:24:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:24:58 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:24:58 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:24:59 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:25:35 (slbsls) UNSUPPORTED: "Slb_Internal_yjyzow" (PORT_AT_HOST_PLUS   ) sona0657@pedws-d7  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:25:35 (slbsls) DENIED: "Petrel_251395383_MAAAAAAADgYQA" sona0657@pedws-d7  (All licenses are reserved for others. (-101,396))
+ 9:25:36 (slbsls) UNSUPPORTED: "VPJ5S" (PORT_AT_HOST_PLUS   ) sona0657@pedws-d7  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:25:44 (slbsls) UNSUPPORTED: "PJ5S6" (PORT_AT_HOST_PLUS   ) sona0657@pedws-d7  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:25:55 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" sona0657@pedws-d7  (All licenses are reserved for others. (-101,396))
+ 9:26:56 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:26:57 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:26:58 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:26:59 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:26:59 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:27:00 (slbsls) DENIED: "OFM32" djebili@PEDWS192  (Licensed number of users already reached. (-4,342))
+ 9:27:38 (slbsls) OUT: "tlBase" cherifi@PEDWS-Z16  
+ 9:27:39 (slbsls) OUT: "tlQuanti" cherifi@PEDWS-Z16  
+ 9:27:39 (slbsls) OUT: "tlQuantiMin" cherifi@PEDWS-Z16  
+ 9:27:41 (slbsls) OUT: "tlSlbToolLock" cherifi@PEDWS-Z16  
+ 9:27:42 (slbsls) UNSUPPORTED: "OLGAS-3PHASE" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:27:43 (slbsls) UNSUPPORTED: "OLGA-S" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:27:43 (slbsls) UNSUPPORTED: "ledaflowpm_3phase" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:27:43 (slbsls) UNSUPPORTED: "ledaflowpm_2phase" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:28:25 (slbsls) IN: "Petrel_171395383_MAAAIAhBFMRQA" SMAILI@PEDWS-D49  
+ 9:29:11 (slbsls) OUT: "Petrel_171395383_MAAAIAhBFMRQA" SMAILI@PEDWS-D49  
+ 9:30:55 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049))
+ 9:30:55 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:55 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:55 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:55 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:55 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:56 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:57 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:30:58 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:32:57 (slbsls) UNSUPPORTED: "Slb_Internal_peyaje" (PORT_AT_HOST_PLUS   ) sona2059@ALGM0000131  (License server system does not support this feature. (-18,327:10054 ""))
+ 9:32:59 (slbsls) OUT: "pvt" sona2059@ALGM0000131  
+ 9:33:14 (slbsls) IN: "Petrel_81395383_MAAjASBAACSEA" n.belmiloud@PEDWS-Z129  
+ 9:34:09 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:09 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:10 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:10 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:10 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:10 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:10 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:11 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:12 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:12 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:12 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:12 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:12 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:13 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+ 9:34:54 (slbsls) IN: "PIPESIM" iharizi@PEDWS-Z111  
+ 9:34:54 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:34:54 (slbsls) OUT: "PIPESIM" iharizi@PEDWS-Z111  
+ 9:34:54 (slbsls) DENIED: "MultiFlash_Basic" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+ 9:34:54 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:34:55 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:38:35 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+10:16:18 (slbsls) OUT: "tlPPP" hamadas@PEDWS-Z107  
+10:16:18 (slbsls) OUT: "tlTechdataPlus" hamadas@PEDWS-Z107  (2 licenses) 
+10:16:18 (slbsls) OUT: "tlQuanti" hamadas@PEDWS-Z107  
+10:16:18 (slbsls) OUT: "tlQuantiMin" hamadas@PEDWS-Z107  
+10:16:18 (slbsls) OUT: "tl1DMEM" hamadas@PEDWS-Z107  
+10:16:18 (slbsls) OUT: "tlSlbToolLock" hamadas@PEDWS-Z107  (3 licenses) 
+10:17:32 (slbsls) UNSUPPORTED: "Slb_Internal_llnumi" (PORT_AT_HOST_PLUS   ) kosseir@PEDWS-Z123  (License server system does not support this feature. (-18,327:10054 ""))
+10:17:32 (slbsls) UNSUPPORTED: "Z6-3n75GaCm" (PORT_AT_HOST_PLUS   ) kosseir@PEDWS-Z123  (License server system does not support this feature. (-18,327))
+10:17:33 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" kosseir@PEDWS-Z123  (All licenses are reserved for others. (-101,396))
+10:19:57 (slbsls) UNSUPPORTED: "Slb_Internal_rsicyd" (PORT_AT_HOST_PLUS   ) boufidjeline@pedws-d26  (License server system does not support this feature. (-18,327:10054 ""))
+10:19:58 (slbsls) DENIED: "OFM32" boufidjeline@pedws-d26  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:36 (slbsls) UNSUPPORTED: "Slb_Internal_xnquxp" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:26:36 (slbsls) UNSUPPORTED: "CfFGOQ.evc8" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:26:37 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:27:07 (slbsls) UNSUPPORTED: "Slb_Internal_uwzohg" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:27:07 (slbsls) UNSUPPORTED: "cWpzENABC" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:27:07 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:27:54 (slbsls) IN: "Petrel_381395383_MAAAAAAAAAQQA" Sona2420@ALGM0000106  
+10:28:26 (slbsls) UNSUPPORTED: "Slb_Internal_mznmpq" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:26 (slbsls) UNSUPPORTED: "Petrel_23477513_MAACIAhBHsZQA" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:26 (slbsls) UNSUPPORTED: "a3wuu4e" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:54 (slbsls) UNSUPPORTED: "Slb_Internal_cnawon" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:54 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:28:54 (slbsls) UNSUPPORTED: "4qcffy" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:55 (slbsls) UNSUPPORTED: "Slb_Internal_gxubhg" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:55 (slbsls) OUT: "ix_tools" KHIDA@PEDWS-D77  
+10:28:55 (slbsls) IN: "ix_tools" KHIDA@PEDWS-D77  
+10:29:07 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:29:07 (slbsls) UNSUPPORTED: "RH3vFrXisuEr0" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:29:31 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:29:31 (slbsls) UNSUPPORTED: "I-UM" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:30:10 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+10:30:10 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) DENIED: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+10:30:15 (slbsls) OUT: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) IN: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327))
+10:30:16 (slbsls) DENIED: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+10:30:16 (slbsls) OUT: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:16 (slbsls) IN: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+ 9:34:54 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:34:55 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+ 9:38:35 (slbsls) Request denied: Client (11.14) newer than Vendor Daemon (11.12). (Version of vendor daemon is too old. (-83,21049:10054 ""))
+10:16:18 (slbsls) OUT: "tlPPP" hamadas@PEDWS-Z107  
+10:16:18 (slbsls) OUT: "tlTechdataPlus" hamadas@PEDWS-Z107  (2 licenses) 
+10:16:18 (slbsls) OUT: "tlQuanti" hamadas@PEDWS-Z107  
+10:16:18 (slbsls) OUT: "tlQuantiMin" hamadas@PEDWS-Z107  
+10:16:18 (slbsls) OUT: "tl1DMEM" hamadas@PEDWS-Z107  
+10:16:18 (slbsls) OUT: "tlSlbToolLock" hamadas@PEDWS-Z107  (3 licenses) 
+10:17:32 (slbsls) UNSUPPORTED: "Slb_Internal_llnumi" (PORT_AT_HOST_PLUS   ) kosseir@PEDWS-Z123  (License server system does not support this feature. (-18,327:10054 ""))
+10:17:32 (slbsls) UNSUPPORTED: "Z6-3n75GaCm" (PORT_AT_HOST_PLUS   ) kosseir@PEDWS-Z123  (License server system does not support this feature. (-18,327))
+10:17:33 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" kosseir@PEDWS-Z123  (All licenses are reserved for others. (-101,396))
+10:19:57 (slbsls) UNSUPPORTED: "Slb_Internal_rsicyd" (PORT_AT_HOST_PLUS   ) boufidjeline@pedws-d26  (License server system does not support this feature. (-18,327:10054 ""))
+10:19:58 (slbsls) DENIED: "OFM32" boufidjeline@pedws-d26  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:21:26 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:19 (slbsls) DENIED: "tlWBI" hamadas@PEDWS-Z107  (Licensed number of users already reached. (-4,342))
+10:26:36 (slbsls) UNSUPPORTED: "Slb_Internal_xnquxp" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:26:36 (slbsls) UNSUPPORTED: "CfFGOQ.evc8" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:26:37 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:27:07 (slbsls) UNSUPPORTED: "Slb_Internal_uwzohg" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:27:07 (slbsls) UNSUPPORTED: "cWpzENABC" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:27:07 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:27:54 (slbsls) IN: "Petrel_381395383_MAAAAAAAAAQQA" Sona2420@ALGM0000106  
+10:28:26 (slbsls) UNSUPPORTED: "Slb_Internal_mznmpq" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:26 (slbsls) UNSUPPORTED: "Petrel_23477513_MAACIAhBHsZQA" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:26 (slbsls) UNSUPPORTED: "a3wuu4e" (PORT_AT_HOST_PLUS   ) ANNOU@PEDWS-D75  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:54 (slbsls) UNSUPPORTED: "Slb_Internal_cnawon" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:54 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:28:54 (slbsls) UNSUPPORTED: "4qcffy" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:55 (slbsls) UNSUPPORTED: "Slb_Internal_gxubhg" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:28:55 (slbsls) OUT: "ix_tools" KHIDA@PEDWS-D77  
+10:28:55 (slbsls) IN: "ix_tools" KHIDA@PEDWS-D77  
+10:29:07 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:29:07 (slbsls) UNSUPPORTED: "RH3vFrXisuEr0" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:29:31 (slbsls) DENIED: "Petrel_271395383_MAACKAhBHsZQA" KHIDA@PEDWS-D77  (All licenses are reserved for others. (-101,396))
+10:29:31 (slbsls) UNSUPPORTED: "I-UM" (PORT_AT_HOST_PLUS   ) KHIDA@PEDWS-D77  (License server system does not support this feature. (-18,327:10054 ""))
+10:30:10 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+10:30:10 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) DENIED: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+10:30:15 (slbsls) OUT: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) IN: "MultiFlash_Hydrate" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) OUT: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) IN: "MultiFlash_Basic" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327))
+10:30:16 (slbsls) DENIED: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+10:30:16 (slbsls) OUT: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:16 (slbsls) IN: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327))
+10:30:16 (slbsls) DENIED: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+10:30:16 (slbsls) OUT: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:16 (slbsls) IN: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327))
+10:30:16 (slbsls) DENIED: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+10:30:16 (slbsls) OUT: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:16 (slbsls) IN: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327))
+10:30:16 (slbsls) DENIED: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+10:30:16 (slbsls) OUT: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:16 (slbsls) IN: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:15 (slbsls) UNSUPPORTED: "MultiFlash_Wax" (PORT_AT_HOST_PLUS   ) iharizi@PEDWS-Z111  (License server system does not support this feature. (-18,327))
+10:30:16 (slbsls) DENIED: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  (License server system does not support this version of this feature. (-25,334))
+10:30:16 (slbsls) OUT: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
+10:30:16 (slbsls) IN: "MultiFlash_Asphaltene" iharizi@PEDWS-Z111  
